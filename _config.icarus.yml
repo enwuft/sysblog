@@ -255,7 +255,7 @@ widgets:
     type: links
     # Names and URLs of the sites
     links:
-      Hexo: 'https://hexo.io'
+      linux syscall x86 x86_64: 'https://filippo.io/linux-syscall-table/'
     #   Bulma: 'https://bulma.io'
   # Categories widget configurations
   - # Where should the widget be placed, left sidebar or right sidebar
