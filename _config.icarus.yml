@@ -3,7 +3,7 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.svg
+logo: https://avatars1.githubusercontent.com/u/26025010?s=400&u=25f8c871ab3afb5f8fd4d6ff9c05e8049ffd9a73&v=4
 # Page metadata configurations
 head:
   # URL or path to the website's icon
@@ -28,7 +28,7 @@ head:
     # Image files that can serve as application icons for different contexts
     icons:
       - # The path to the image file
-        src: ''
+        src: 'https://avatars1.githubusercontent.com/u/26025010?s=400&u=25f8c871ab3afb5f8fd4d6ff9c05e8049ffd9a73&v=4'
         # A string containing space-separated image dimensions
         sizes: ''
         # A hint as to the media type of the image
@@ -215,11 +215,11 @@ widgets:
     # Author's current location
     location: Thailand
     # URL or path to the avatar image
-    avatar: /img/myAvatar.svg
+    avatar: 'https://avatars1.githubusercontent.com/u/26025010?s=400&u=25f8c871ab3afb5f8fd4d6ff9c05e8049ffd9a73&v=4'
     # Whether show the rounded avatar image
     avatar_rounded: false
     # Email address for the Gravatar
-    gravatar: enwuft@gmail.com
+    gravatar:
     # URL or path for the follow button
     follow_link: 'https://github.com/enwuft'
     # Links to be shown on the bottom of the profile widget
