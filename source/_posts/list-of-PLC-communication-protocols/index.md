@@ -15,6 +15,9 @@ thumbnail: /images/04.svg
 2. Profibus
 3. Modbus (อ่าน) 
 4. Interbus
+
+<!-- more -->
+
 5. ProfiNet
 6. ControlNet
 7. DeviceNet

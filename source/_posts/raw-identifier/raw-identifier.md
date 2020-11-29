@@ -8,7 +8,9 @@ toc: true
 cover: /images/raw_indentifier_01.png
 ---
 
-การระบบชื่อของ functions, variables, parameters, struct fields, modules, crates, constants, macros, static values, attributes, types, traits, or lifetimes. ใน rust บาง keywords จะไม่สามารถใช้ในการเขียนได้ ผมเรียกว่าคำสงวน ดังภาพ ระบุชื่อฟังก์ชัน `match` rust-analyzer เเจ้งว่า fn match error ไม่สามารถใช้ระบุเป็นชื่อฟังก์ชันได้ 
+การระบบชื่อของ functions, variables, parameters, struct fields, modules, crates, constants, macros, static values, attributes, types, traits, or lifetimes. ใน rust บาง keywords จะไม่สามารถใช้ในการเขียนได้ ผมเรียกว่าคำสงวน
+<!-- more -->
+ดังภาพ ระบุชื่อฟังก์ชัน `match` rust-analyzer เเจ้งว่า fn match error ไม่สามารถใช้ระบุเป็นชื่อฟังก์ชันได้ 
 
 ![Raw Identifiers](/images/raw_indentifier_01.png)
 
